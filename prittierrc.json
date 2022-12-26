@@ -9,7 +9,7 @@
   "bracketSpacing": true,
   "jsxBracketSameLine": true,
   "bracketSameLine": true,
-  "arrowParens": "always",
+  "arrowParens": "avoid",
   "insertPragma": false,
   "requirePragma": false,
   "proseWrap": "never",
